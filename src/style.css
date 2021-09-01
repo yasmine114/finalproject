@@ -37,3 +37,7 @@ table {
   font-family: "Rajdhani", sans-serif;
   border: 1px solid black;
 }
+
+.githubLink {
+    font-size: small;
+}
